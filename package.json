@@ -8,6 +8,7 @@
   },
   "author": "Anuj",
   "license": "ISC",
+  "homepage": "https://github.com/anuj1160/url_shortner",
   "dependencies": {
     "dotenv": "^16.3.1",
     "ejs": "^3.1.9",
@@ -16,6 +17,7 @@
     "nanoid": "^3.3.4"
   },
   "devDependencies": {
+    "gh-pages": "^6.0.0",
     "nodemon": "^3.0.1"
   }
 }
